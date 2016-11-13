@@ -1,4 +1,4 @@
-# GenerativeMixtureModel [![Build Status](https://travis-ci.org/AmirHadifar/GenerativeMixtureModel.svg?branch=master)](https://travis-ci.org/AmirHadifar/GenerativeMixtureModel)
+# GenerativeMixtureModel [![Travis CI Status](https://travis-ci.org/AmirHadifar/GenrativeMixtureModel.svg?branch=master)](https://travis-ci.org/AmirHadifar/GenrativeMixtureModel)
 
 
 **Generative Mixture Model | Mixture Model**
